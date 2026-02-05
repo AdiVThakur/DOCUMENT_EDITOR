@@ -1,1 +1,14 @@
 # DOCUMENT_EDITOR
+
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: Thakur Aditya Vithalrao
+
+INTERN ID: CTIS1924
+
+DOMAIN: Full Stack Web Development
+
+DURATION: 6 Weeks
+
+MENTOR: NEELA SANTOSH
